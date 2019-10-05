@@ -1,0 +1,3 @@
+# Frequency attack in Fourier domain•	Created wave picture with different frequency (different RGB 0~255 value represents amplitude, different wave length).
+•	Performed picture classification by different network, and added the wave picture on original picture, and observe the change in accuracy.
+•	Investigated the relationship among RGB value, wave length of wave picture, original image category, network and accuracy.
